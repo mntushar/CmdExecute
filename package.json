@@ -1,0 +1,16 @@
+{
+  "name": "cmd-execute",
+  "version": "1.0.0",
+  "description": "automatic excute cmd",
+  "license": "ISC",
+  "author": "M N Tushar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react-virtual-dropdown": "^1.2.0",
+    "react-virtual-grid-table": "^1.0.6"
+  }
+}
